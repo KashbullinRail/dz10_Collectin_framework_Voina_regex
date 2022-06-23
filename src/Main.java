@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static String[] lineToGet = null;
-    public static String wordToSearch = "страдан";
+    public static String wordToSearch = "СЃС‚СЂР°РґР°РЅ";
     public static String pathText = "voina12.txt";
 
     public static void main(String[] args) throws FileNotFoundException {
