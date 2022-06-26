@@ -5,7 +5,7 @@ public class SearchAndCountBufferedReader {
         for (String str : Main.lineToGet) {
             str = str.toLowerCase();
             String wordToSearch = Main.wordToSearch.toLowerCase();
-            if (str.contains(wordToSearch)) {
+            if (str.matches(wordToSearch)) {
                 countBR++;
             }
         }

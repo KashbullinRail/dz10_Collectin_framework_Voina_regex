@@ -13,7 +13,7 @@ public class SearchAndCountScanner {
             for (String str : Main.lineToGet) {
                 line = line.toLowerCase();
                 String wordToSearch = Main.wordToSearch.toLowerCase();
-                if (str.contains(wordToSearch)) {
+                if (str.matches(wordToSearch)) {
                     countSc++;
                 }
             }

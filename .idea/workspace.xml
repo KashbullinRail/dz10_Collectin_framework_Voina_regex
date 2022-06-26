@@ -4,6 +4,9 @@
     <list default="true" id="a3b35670-b980-4e57-af11-fd75e0eb6e1d" name="Changes" comment="Домашнее задание по уроку Collection framework">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrintResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAndCountScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAndCountScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +21,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a5abbcd8-5f1d-4d1c-bcbb-e4e1a62b54a8" />
+        <option name="url" value="https://github.com/KashbullinRail/dz10_Collectin_framework_Voina_Table.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,6 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last.edited.regexp": "Страдан",
     "last_opened_file_path": "C:/Users/Раиль/IdeaProjects/dz10_Collectin_framework_Voina_Table/dz10_Collectin_framework_Voina_Table",
     "settings.editor.selected.configurable": "File.Encoding"
   }
@@ -71,7 +88,8 @@
       <updated>1652703877932</updated>
       <workItem from="1652703879960" duration="3300000" />
       <workItem from="1653214517612" duration="34000" />
-      <workItem from="1655979644439" duration="10116000" />
+      <workItem from="1655979644439" duration="10491000" />
+      <workItem from="1656234958348" duration="803000" />
     </task>
     <task id="LOCAL-00001" summary="Домашнее задание по уроку Collection framework">
       <created>1655988800443</created>
@@ -87,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655988888677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Домашнее задание по уроку Collection framework">
+      <created>1655989867123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655989867123</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

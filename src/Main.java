@@ -2,10 +2,12 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.io.*;
+import java.util.regex.Pattern;
 
 public class Main {
     public static String[] lineToGet = null;
-    public static String wordToSearch = "страдан";
+    final static String wordToSearch = "^[Сс]трада(.*)";
     public static String pathText = "voina12.txt";
 
     public static void main(String[] args) throws FileNotFoundException {
@@ -15,7 +17,6 @@ public class Main {
         for (String line : lines) {
             System.out.println(line);
         }
-
         System.out.println();
         PrintResult.print(SearchAndCountBufferedReader.countBR, "BufferedReader");
         SearchAndCountScanner.searchAndCountScanner();
